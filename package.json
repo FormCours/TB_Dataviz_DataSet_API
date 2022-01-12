@@ -1,0 +1,22 @@
+{
+  "name": "dataset_api",
+  "version": "1.0.0",
+  "description": "Server pour le labo des dataviz",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FormCours/TB_Dataviz_DataSet_API.git"
+  },
+  "author": "Bstorm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FormCours/TB_Dataviz_DataSet_API/issues"
+  },
+  "homepage": "https://github.com/FormCours/TB_Dataviz_DataSet_API#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
