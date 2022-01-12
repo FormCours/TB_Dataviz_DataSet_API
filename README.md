@@ -9,6 +9,8 @@
 
 - (Belgique) Arbres remarquables de Bruxelles-Capitale
 
+- (France) Icpe Agricoles en pays de la loire
+
 ### Source de données
 https://statistiques.public.lu/stat/ReportFolders/ReportFolder.aspx?IF_Language=fra&MainTheme=4&FldrName=2
 https://data.gov.be/fr/search/datasets?f%5B0%5D=im_field_category%3A32
