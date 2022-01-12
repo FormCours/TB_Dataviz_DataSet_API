@@ -10,6 +10,7 @@
 - (Belgique) Arbres remarquables de Bruxelles-Capitale
 
 - (France) Icpe Agricoles en pays de la loire
+- (France) Consommation electrique annuelle dans la commune de maille
 
 ### Source de données
 https://statistiques.public.lu/stat/ReportFolders/ReportFolder.aspx?IF_Language=fra&MainTheme=4&FldrName=2
