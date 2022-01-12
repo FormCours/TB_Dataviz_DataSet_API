@@ -9,7 +9,7 @@ const fakeDB = {};
 
 files.forEach(filename => {
     if(/.*\.json$/.test(filename)) {
-        const name = filename.replace('.json', '');
+        const name = filename.replace('.json', '').trim().toLocaleLowerCase();
         const file = path.resolve(directory, filename);
 
         fakeDB[name] = require(file);
